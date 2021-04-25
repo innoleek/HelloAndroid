@@ -8,9 +8,11 @@
 # If your project uses WebView with JS, uncomment the following
 # and specify the fully qualified class name to the JavaScript interface
 # class:
--keep class com.example.helloandroid.Class1HomeWorkAnswerKt {
+
+-keep class com.example.helloandroid.HellTest {
    *;
 }
+
 
 -keep class com.example.helloandroid.TestHelllllo {
    *;
